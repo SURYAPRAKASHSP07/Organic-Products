@@ -87,7 +87,7 @@ nav .collapse a:hover::after{
     text-align: center;
     height: 100vh;
     width: 100vw;
-    background-image: url(/banner44_1_1.jpg);
+    background-image: url(banner44_1_1.jpg);
     background-repeat: no-repeat;
     background-position: center;
     background-size: contain;
@@ -116,7 +116,7 @@ nav .collapse a:hover::after{
 }
 
 .footer{
-    background-image: url(/carrot-410670_1280-e1535073548523_960x.jpg);
+    background-image: url(carrot-410670_1280-e1535073548523_960x.jpg);
     background-repeat: no-repeat;
     background-position: center;
     background-size: cover;
